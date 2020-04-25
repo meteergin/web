@@ -1,5 +1,6 @@
 package com.erg01.controller;
 
+import com.erg01.domain.LoginVM;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
